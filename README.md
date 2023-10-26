@@ -8,10 +8,6 @@ Fully responsive on mobile and tablet devices
 - CSS
 - JavaScript
 
-## Technologies
-
-- Swipper.js
-
 ## Live view
 
 - [foodwebsitebymide](https://foodwebsitebymide.netlify.app/)
